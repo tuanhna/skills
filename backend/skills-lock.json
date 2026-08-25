@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "skills": {
+    "api-design-principles": {
+      "source": "wshobson/agents",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "plugins/backend-development/skills/api-design-principles/SKILL.md",
+      "computedHash": "a91429c25bb978f99f5da8d8752b8ae87ece51abcb24acb3953a5b1662c9bd5c"
+    },
+    "architecture-patterns": {
+      "source": "wshobson/agents",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "plugins/backend-development/skills/architecture-patterns/SKILL.md",
+      "computedHash": "abdf3457f8a947a0079acde1517ecbce2cb46ff20b9ce4bf74f3b98827fea7c7"
+    },
+    "cqrs-implementation": {
+      "source": "wshobson/agents",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "plugins/backend-development/skills/cqrs-implementation/SKILL.md",
+      "computedHash": "4da4af422951fed153ecb9528395e5cac60b13746c97b2031c3ab29b8a96f4af"
+    },
+    "event-store-design": {
+      "source": "wshobson/agents",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "plugins/backend-development/skills/event-store-design/SKILL.md",
+      "computedHash": "2ffd9d6dad7918d74423877b87fa3c500f97ad707735205d68c3deddc4173b44"
+    },
+    "microservices-patterns": {
+      "source": "wshobson/agents",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "plugins/backend-development/skills/microservices-patterns/SKILL.md",
+      "computedHash": "d0851a64dbe56bef0d80b5f426d58d37e1018e29ed90b1d676e6601d1a23b899"
+    },
+    "projection-patterns": {
+      "source": "wshobson/agents",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "plugins/backend-development/skills/projection-patterns/SKILL.md",
+      "computedHash": "42474181109fe305b0a88e9cf76304a2fd269e7cee56d426555e4c5b2db5debd"
+    },
+    "saga-orchestration": {
+      "source": "wshobson/agents",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "plugins/backend-development/skills/saga-orchestration/SKILL.md",
+      "computedHash": "d9f7d5a0a8ef78582bce60696358f8ed324635c18fd1dfb4eb0f29bd17612b92"
+    },
+    "temporal-python-testing": {
+      "source": "wshobson/agents",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "plugins/backend-development/skills/temporal-python-testing/SKILL.md",
+      "computedHash": "9694252835336a62d1fb290f93398f1baf5951acc3355c33edae8ab9c82eea08"
+    },
+    "workflow-orchestration-patterns": {
+      "source": "wshobson/agents",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "plugins/backend-development/skills/workflow-orchestration-patterns/SKILL.md",
+      "computedHash": "01221e558bf2d2352ac736e717b3d657996bc1275258c22d1c0b729bfea6aa09"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "skills": {
+    "airflow-dag-patterns": {
+      "source": "wshobson/agents",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "plugins/data-engineering/skills/airflow-dag-patterns/SKILL.md",
+      "computedHash": "6ecd0e3792f5296027cfcce6fbdfa5ff76be2fc7c7e59b28ac1252a278031344"
+    },
+    "data-quality-frameworks": {
+      "source": "wshobson/agents",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "plugins/data-engineering/skills/data-quality-frameworks/SKILL.md",
+      "computedHash": "7ed3e07244c980c858c91906356f8d4bb34058833952d2841db8da881f7ec85b"
+    },
+    "dbt-transformation-patterns": {
+      "source": "wshobson/agents",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "plugins/data-engineering/skills/dbt-transformation-patterns/SKILL.md",
+      "computedHash": "79f3271827f7a29be343a25136dc10778a07435b319c8b45b374c95871785bb3"
+    },
+    "spark-optimization": {
+      "source": "wshobson/agents",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "plugins/data-engineering/skills/spark-optimization/SKILL.md",
+      "computedHash": "e3e17902d2f6dd98f37a2d0c5758c4f4447a9a076dd5e18856f35871f0811cb2"
+    }
+  }
+}
