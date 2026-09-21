@@ -7,6 +7,12 @@
       "skillPath": "skills/java-coding-standards/SKILL.md",
       "computedHash": "c45cf8f0b87d44804e582fe0d103e154214961bcae4c5e1cb473d2f20d529096"
     },
+    "jooq-best-practices": {
+      "source": "jvm-skills/jvm-skills",
+      "sourceType": "github",
+      "skillPath": ".claude/skills/jooq-best-practices/SKILL.md",
+      "computedHash": "90728d602fc1fc9f54b775f5ca067f7b4e61edb58b9312bc99f959dd67614eaf"
+    },
     "jpa-patterns": {
       "source": "affaan-m/ecc",
       "sourceType": "github",

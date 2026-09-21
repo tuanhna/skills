@@ -1,35 +1,172 @@
 {
   "version": 1,
   "skills": {
+    "auth-and-guards": {
+      "source": "TanStack/router",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "packages/router-core/skills/router-core/auth-and-guards/SKILL.md",
+      "computedHash": "aeafd0cc69a39b769eae38df5a764300a744ba24e8729cec5687673ca797bb43"
+    },
+    "auth-server-primitives": {
+      "source": "TanStack/router",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "packages/start-client-core/skills/start-core/auth-server-primitives/SKILL.md",
+      "computedHash": "e2a3a8748df140dcb0a18a33562514ae58cbc13d430caa9c16fdd81285c16051"
+    },
+    "code-splitting": {
+      "source": "TanStack/router",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "packages/router-core/skills/router-core/code-splitting/SKILL.md",
+      "computedHash": "54ee83186645be00d63d200da0fb3162ba555a78a08dce739e17760b8e975a37"
+    },
+    "data-loading": {
+      "source": "TanStack/router",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "packages/router-core/skills/router-core/data-loading/SKILL.md",
+      "computedHash": "8e38170db8d7ef196cc3f4fe54face009690f92aff81cc7244e6834e138f41dc"
+    },
+    "execution-model": {
+      "source": "TanStack/router",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "packages/start-client-core/skills/start-core/execution-model/SKILL.md",
+      "computedHash": "5b0c903da99f1541e7d0ea076aeb5badbb417319c070c5199d91ebc17853f239"
+    },
+    "middleware": {
+      "source": "TanStack/router",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "packages/start-client-core/skills/start-core/middleware/SKILL.md",
+      "computedHash": "e28f747876f4fade18b04a33978380010b0395284cb8dac9ab7c7eb61935f3ac"
+    },
+    "navigation": {
+      "source": "TanStack/router",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "packages/router-core/skills/router-core/navigation/SKILL.md",
+      "computedHash": "6c015b0215a6dabc9eea87bad6d7953cfdd61c7a0012b2889d397a29259136f8"
+    },
+    "not-found-and-errors": {
+      "source": "TanStack/router",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "packages/router-core/skills/router-core/not-found-and-errors/SKILL.md",
+      "computedHash": "1f4b33882b6f59803d46ebdd1bac8d8273d318005accec8795c4cbe2ff661f34"
+    },
+    "path-params": {
+      "source": "TanStack/router",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "packages/router-core/skills/router-core/path-params/SKILL.md",
+      "computedHash": "f8e3bed1f8dfc96cc7d6015adc3cd31486811cb686dd277213391e3cf56174c9"
+    },
+    "react-router": {
+      "source": "TanStack/router",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "packages/react-router/skills/react-router/SKILL.md",
+      "computedHash": "f762a6278b2b1ae911195cc7748d213ed08f37cb70ce33aef1578a5759ef01d2"
+    },
+    "react-start": {
+      "source": "TanStack/router",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "packages/react-start/skills/react-start/SKILL.md",
+      "computedHash": "e508e5a82d7eb15cc7fcbf16763f6c270cd0be31bfb0d80d51eb2cbb43eacaca"
+    },
+    "router-core": {
+      "source": "TanStack/router",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "packages/router-core/skills/router-core/SKILL.md",
+      "computedHash": "62eb2d9340f84c2eb01294935d9e707ca2e95cc31c17c1f2754f4f1245790218"
+    },
+    "router-plugin": {
+      "source": "TanStack/router",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "packages/router-plugin/skills/router-plugin/SKILL.md",
+      "computedHash": "9954f6c52398cb2a84cd67cf79eac683e6e72848a3eb10c5bf79e14ac056e3a5"
+    },
+    "router-query": {
+      "source": "TanStack/router",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "packages/react-router/skills/compositions/router-query/SKILL.md",
+      "computedHash": "63fc32c213852863cb237c83c783a46d77f87e1551ef3e48abdda4c3667ba1e2"
+    },
+    "search-params": {
+      "source": "TanStack/router",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "packages/router-core/skills/router-core/search-params/SKILL.md",
+      "computedHash": "abfbd24aae8f8f9e08bff34dfbea830bd03ac41ba131d017ebbf8b84d47d789d"
+    },
+    "server-components": {
+      "source": "TanStack/router",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "packages/react-start/skills/react-start/server-components/SKILL.md",
+      "computedHash": "a458da680938050459d1f35393eceb8d9000065a59e45d64b598162df39cc772"
+    },
+    "server-functions": {
+      "source": "TanStack/router",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "packages/start-client-core/skills/start-core/server-functions/SKILL.md",
+      "computedHash": "224e3b20425289a5255429933671232be0ce9f9e8eb8a5f18421272193c46714"
+    },
+    "server-routes": {
+      "source": "TanStack/router",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "packages/start-client-core/skills/start-core/server-routes/SKILL.md",
+      "computedHash": "2af3c4193f978eda8f08844a2dde4cc2640aac284b8b5590611a58909c683f46"
+    },
+    "ssr": {
+      "source": "TanStack/router",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "packages/router-core/skills/router-core/ssr/SKILL.md",
+      "computedHash": "24f98b721452c3408631a09552d1df91d9d2326b75ce39af0a4cd8216dda9037"
+    },
+    "start-core": {
+      "source": "TanStack/router",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "packages/start-client-core/skills/start-core/SKILL.md",
+      "computedHash": "cfeffe68b82aa6aa0f70d1ee0184d517423385a7b55917fc91aeedd160109d9f"
+    },
+    "start-server-core": {
+      "source": "TanStack/router",
+      "ref": "main",
+      "sourceType": "github",
+      "skillPath": "packages/start-server-core/skills/start-server-core/SKILL.md",
+      "computedHash": "1ababf4f17a9bc6ecde76c226043e109b7700fbe710e0d2347846e137bc6ea72"
+    },
     "tanstack-query": {
       "source": "tanstack-skills/tanstack-skills",
       "sourceType": "github",
       "skillPath": "plugins/tanstack-query/skills/tanstack-query/SKILL.md",
-      "computedHash": "bfe2977e92667b84efeb4b12e5c3010807934aab2f7ac2b059241cd3da2a3e6e"
+      "computedHash": "b8a0477cd4d7bf8fa54d27f8e64d82388402f0d502591db50a357df5b9995c75"
     },
-    "tanstack-router": {
-      "source": "tanstack-skills/tanstack-skills",
+    "type-safety": {
+      "source": "TanStack/router",
+      "ref": "main",
       "sourceType": "github",
-      "skillPath": "plugins/tanstack-router/skills/tanstack-router/SKILL.md",
-      "computedHash": "6aba9066ca12bf6bb6eebec9c58f5d4e33b6b06e2b11bf263f5b7a5c18edc389"
+      "skillPath": "packages/router-core/skills/router-core/type-safety/SKILL.md",
+      "computedHash": "041448d7d5f4759ce98fcd267fbc511c9d7c18b5ffd0c36ab4d1953c8a3a7d28"
     },
-    "tanstack-start": {
-      "source": "tanstack-skills/tanstack-skills",
+    "virtual-file-routes": {
+      "source": "TanStack/router",
+      "ref": "main",
       "sourceType": "github",
-      "skillPath": "plugins/tanstack-start/skills/tanstack-start/SKILL.md",
-      "computedHash": "31690f8eb3a24feb093bfd14d673f0519078cdcd297f79fc2bbb584b4daa4db1"
-    },
-    "tanstack-table": {
-      "source": "tanstack-skills/tanstack-skills",
-      "sourceType": "github",
-      "skillPath": "plugins/tanstack-table/skills/tanstack-table/SKILL.md",
-      "computedHash": "5527e42e541ac26fc1157e49d58c399b95e44eb276ef3caa7576ab138558d593"
-    },
-    "tanstack-virtual": {
-      "source": "tanstack-skills/tanstack-skills",
-      "sourceType": "github",
-      "skillPath": "plugins/tanstack-virtual/skills/tanstack-virtual/SKILL.md",
-      "computedHash": "3696d2db04a03373dfdab1f8d5c2249989c6d8c299bb02c4491b25d2b446e51c"
+      "skillPath": "packages/virtual-file-routes/skills/virtual-file-routes/SKILL.md",
+      "computedHash": "a3719f04b7f9b094928ca1e862097d55f0084f64b4ca5f3654001298cc190157"
     }
   }
 }

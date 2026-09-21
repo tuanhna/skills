@@ -29,12 +29,17 @@
       "skillPath": "plugins/backend-development/skills/event-store-design/SKILL.md",
       "computedHash": "2ffd9d6dad7918d74423877b87fa3c500f97ad707735205d68c3deddc4173b44"
     },
+    "kafka-development": {
+      "source": "mindrally/skills",
+      "sourceType": "github",
+      "skillPath": "kafka-development/SKILL.md",
+      "computedHash": "402a2cf2292175618fc82709ab526b477ade35cf4aa7c6ed88c906d87c778ec4"
+    },
     "microservices-patterns": {
       "source": "wshobson/agents",
-      "ref": "main",
       "sourceType": "github",
       "skillPath": "plugins/backend-development/skills/microservices-patterns/SKILL.md",
-      "computedHash": "d0851a64dbe56bef0d80b5f426d58d37e1018e29ed90b1d676e6601d1a23b899"
+      "computedHash": "60bd815acd83afe78021284d960010d87e7ab785dc01b2d10794f08773ab597f"
     },
     "projection-patterns": {
       "source": "wshobson/agents",
@@ -49,13 +54,6 @@
       "sourceType": "github",
       "skillPath": "plugins/backend-development/skills/saga-orchestration/SKILL.md",
       "computedHash": "d9f7d5a0a8ef78582bce60696358f8ed324635c18fd1dfb4eb0f29bd17612b92"
-    },
-    "temporal-python-testing": {
-      "source": "wshobson/agents",
-      "ref": "main",
-      "sourceType": "github",
-      "skillPath": "plugins/backend-development/skills/temporal-python-testing/SKILL.md",
-      "computedHash": "9694252835336a62d1fb290f93398f1baf5951acc3355c33edae8ab9c82eea08"
     },
     "workflow-orchestration-patterns": {
       "source": "wshobson/agents",
