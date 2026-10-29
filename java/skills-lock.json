@@ -11,7 +11,7 @@
       "source": "jvm-skills/jvm-skills",
       "sourceType": "github",
       "skillPath": ".claude/skills/jooq-best-practices/SKILL.md",
-      "computedHash": "90728d602fc1fc9f54b775f5ca067f7b4e61edb58b9312bc99f959dd67614eaf"
+      "computedHash": "4c30e4d51feb7bd0f24511bb2463e34a0169f6b6578975d6d6428be092cf6be6"
     },
     "jpa-patterns": {
       "source": "affaan-m/ecc",

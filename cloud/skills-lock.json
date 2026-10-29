@@ -27,7 +27,7 @@
       "ref": "main",
       "sourceType": "github",
       "skillPath": "plugins/cloud-infrastructure/skills/linkerd-patterns/SKILL.md",
-      "computedHash": "cbef6d243d125c3accaa9081ef63f62ddecaf18f2a83993484a1661baecfeda6"
+      "computedHash": "4847bb794f1137fb1f09973071be60eb80b503fddd225eb2a8ac1e59976048b3"
     },
     "mtls-configuration": {
       "source": "wshobson/agents",

@@ -5,7 +5,7 @@
       "source": "cloudflare/security-audit-skill",
       "sourceType": "github",
       "skillPath": "skills/security-audit/SKILL.md",
-      "computedHash": "0f858feecab83071b81e658c32f361bb8af34b5bf567ba0a86ff94383c055e7f"
+      "computedHash": "e6b2e317de75da97e9de18d842982994803f3a67a4a6d8154a82323dc3de8528"
     }
   }
 }

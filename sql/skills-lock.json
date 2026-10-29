@@ -11,7 +11,7 @@
       "source": "planetscale/database-skills",
       "sourceType": "github",
       "skillPath": "skills/postgres/SKILL.md",
-      "computedHash": "f0632544d951152bf28c4f5cbb02593af296a3abe75f8949d003718c61a9a90b"
+      "computedHash": "54ce5fd368f13d598f9afbd3feed8fb5ac7902afbb6cb0125e4ad187c8972c79"
     },
     "supabase-postgres-best-practices": {
       "source": "supabase/agent-skills",
